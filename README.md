@@ -1,5 +1,5 @@
 # CodingChallenge
-![App Image](https://github.com/c0d3r24/EmployeeManagementUsingAngular/blob/master/App_Image.png)
+![App Image](https://github.com/c0d3r24/codingChallenge/blob/master/App_Image.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
 
